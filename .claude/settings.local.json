@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:blog.flutter.dev)",
+      "WebFetch(domain:www.200oksolutions.com)",
+      "WebFetch(domain:github.com)",
+      "Bash(flutter create *)"
+    ]
+  }
+}
